@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/enishalilajjj/lista/static/css/main.6008e24b.css",
+    "main.js": "/enishalilajjj/lista/static/js/main.f0971063.js",
+    "static/js/156.4b1e1b17.chunk.js": "/enishalilajjj/lista/static/js/156.4b1e1b17.chunk.js",
+    "index.html": "/enishalilajjj/lista/index.html",
+    "main.6008e24b.css.map": "/enishalilajjj/lista/static/css/main.6008e24b.css.map",
+    "main.f0971063.js.map": "/enishalilajjj/lista/static/js/main.f0971063.js.map",
+    "156.4b1e1b17.chunk.js.map": "/enishalilajjj/lista/static/js/156.4b1e1b17.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6008e24b.css",
+    "static/js/main.f0971063.js"
+  ]
+}
